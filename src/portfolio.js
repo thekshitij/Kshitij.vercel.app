@@ -13,7 +13,7 @@ const seo = {
   og: {
     title: "Kshitij chaudhary Portfolio",
     type: "website",
-   url:"https://samvardhan.vercel.app/",
+   url:"https://Kshitijchaudhary.vercel.app/",
   },
 };
 
