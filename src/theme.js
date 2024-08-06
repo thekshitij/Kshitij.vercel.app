@@ -28,4 +28,4 @@ export const blackTheme = {
 };
 
 
-export const chosenTheme = blackTheme;
+export const chosenTheme = blueTheme;
