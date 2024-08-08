@@ -25,7 +25,7 @@ const greeting = {
   subTitle:
     "I am an engineering student due to graduate in 2025,proficient in web development, neural networks and Python,I am Eager to continue pushing boundaries and making meaningful contributions in the tech industry.",
   resumeLink: 
-    " ",
+    "https://drive.google.com/file/d/1KdE3EeMnK2akTZ79nFo2D7GgPT-KG4N8/view",
   portfolio_repository: "https://github.com/thekshitij",
   githubProfile: "https://github.com/thekshitij",
 };
@@ -164,7 +164,7 @@ const certifications = {
       subtitle: "- Oracle",
       logo_path: "TVS.png",
       certificate_link:
-        "https://catalog-education.oracle.com/pls/certview/sharebadge?id=2D82F62B68796E11C737C120539D84C10AC4D4DC2896698E9D8257A2821AF9B5s",
+        "https://catalog-education.oracle.com/pls/certview/sharebadge?id=2D82F62B68796E11C737C120539D84C10AC4D4DC2896698E9D8257A2821AF9B5",
       alt_name: "NPTEL",
       color_code: "#FFFFFF",
     },
