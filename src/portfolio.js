@@ -256,17 +256,7 @@ const experience = {
     {
       title: "Internships",
       experiences: [
-        {
-          title: "Machine Learning Intern",
-          company: "CodSoft",
-          company_url: "https://drive.google.com/file/d/1lJhq0EH3KAIDt7FvXhPAH85HSp4T7kFO/view",
-          logo_path: "codsoft.png",
-          duration: "Aug 2024 - Sep 2024",
-          location: "Chennai, India",
-          description:
-            "Phase01: The objective of this project create a machine learning model that can predict the genre of a movie based on its plot summary or other textual information.",
-          color: "#ee3c26",
-        },
+      
         
         {
           title: "Data Science Intern",
