@@ -256,6 +256,17 @@ const experience = {
     {
       title: "Internships",
       experiences: [
+        {
+          title: "Data Science Intern",
+          company: "Coder's Cave",
+          company_url: "https://www.linkedin.com/posts/kshitij-chaudhary-91374b2b3_coderscave-thank-you-activity-7228309716907474944-mlvw?utm_source=share&utm_medium=member_desktop",
+          logo_path: "coderscave.png",
+          duration: "July 2023 - Aug 2023",
+          location: "Chennai, India",
+          description:
+            "Phase01: performed exploratory data analysis on of global terrorism dataset and breast cancer classification using regression techniques.Phase02: Used random forest classification for email spam classification model and neural networks for speech emotion recognition model.",
+          color: "#ee3c26",
+        },
         
         {
           title: "Data Science Intern",
