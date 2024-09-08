@@ -260,7 +260,7 @@ const experience = {
           title: "Machine Learning Intern",
           company: "CodSoft",
           company_url: "https://drive.google.com/file/d/1lJhq0EH3KAIDt7FvXhPAH85HSp4T7kFO/view",
-          logo_path: "coderscave.png",
+          logo_path: "codsoft.png",
           duration: "Aug 2024 - Sep 2024",
           location: "Chennai, India",
           description:
