@@ -257,8 +257,7 @@ const experience = {
       title: "Internships",
       experiences: [
       
-        
-        {
+           {
           title: "Data Science Intern",
           company: "Coder's Cave",
           company_url: "https://www.linkedin.com/posts/kshitij-chaudhary-91374b2b3_coderscave-thank-you-activity-7228309716907474944-mlvw?utm_source=share&utm_medium=member_desktop",
