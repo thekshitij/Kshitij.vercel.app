@@ -266,6 +266,7 @@ const experience = {
           description:
             "Phase01: The objective of this project create a machine learning model that can predict the genre of a movie based on its plot summary or other textual information.",
           color: "#ee3c26",
+        }, 
       
            {
           title: "Data Science Intern",
