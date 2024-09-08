@@ -260,7 +260,7 @@ const experience = {
         {
           title: "Data Science Intern",
           company: "Coder's Cave",
-          company_url: "https://certificate.givemycertificate.com/c/afed6472-b825-4673-900f-191c9b69f5cd",
+          company_url: "https://www.linkedin.com/posts/kshitij-chaudhary-91374b2b3_coderscave-thank-you-activity-7228309716907474944-mlvw?utm_source=share&utm_medium=member_desktop",
           logo_path: "coderscave.png",
           duration: "July 2023 - Aug 2023",
           location: "Chennai, India",
@@ -275,7 +275,7 @@ const experience = {
       title: "Position of Responsibility",
       experiences: [
         {
-          title: "Technical Team Lead",
+          title: "Technical Team Member",
           company: "SlugNPlug",
           company_url: "https://www.linkedin.com/company/slug-n-plug/mycompany",
           logo_path: "SNP.jpg",
@@ -286,7 +286,7 @@ const experience = {
           color: "#4285F4",
         },
         {
-          title: "Web development team lead",
+          title: "Web development team Member",
           company: "SlugNPlug",
           company_url: "https://www.linkedin.com/company/slug-n-plug/mycompany",
           logo_path: "SNP.jpg",
