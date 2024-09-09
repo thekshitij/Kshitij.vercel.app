@@ -178,21 +178,21 @@ const certifications = {
       color_code: "#FFFFFF",
     },
     {
-      title: "Neural Networks and Deep Learning",
-      subtitle: "Deep Learning.AI",
-      logo_path: "dl.png",
-      certificate_link:
-        "https://coursera.org/share/87b854f14a71c47d7735ce989e4a7f77",
-      alt_name: "deeplearning.ai",
-      color_code: "#FFFFFF",
-    },
-    {
       title: "CodSoft internship program",
       subtitle: "- CodSoft",
       logo_path: "codsoft.png",
       certificate_link:
         "https://drive.google.com/file/d/1lJhq0EH3KAIDt7FvXhPAH85HSp4T7kFO/view",
       alt_name: "GCP",
+      color_code: "#FFFFFF",
+    },
+    {
+      title: "Neural Networks and Deep Learning",
+      subtitle: "Deep Learning.AI",
+      logo_path: "dl.png",
+      certificate_link:
+        "https://coursera.org/share/87b854f14a71c47d7735ce989e4a7f77",
+      alt_name: "deeplearning.ai",
       color_code: "#FFFFFF",
     },
     {
