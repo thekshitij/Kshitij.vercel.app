@@ -187,6 +187,15 @@ const certifications = {
       color_code: "#FFFFFF",
     },
     {
+      title: "CodSoft internship program",
+      subtitle: "- CodSoft",
+      logo_path: "codsoft.png",
+      certificate_link:
+        "https://drive.google.com/file/d/1lJhq0EH3KAIDt7FvXhPAH85HSp4T7kFO/view",
+      alt_name: "GCP",
+      color_code: "#FFFFFF",
+    },
+    {
       title: "Improving Deep Neural Networks: Hyperparameter Tuning, Regularization and Optimization",
       subtitle: "- Deep Learning.AI",
       logo_path: "dl.png",
