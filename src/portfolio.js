@@ -169,7 +169,7 @@ const certifications = {
       color_code: "#FFFFFF",
     },
     {
-      title: "Deep Learning",
+      title: "Deep Learning Specialization",
       subtitle: "Deep Learning.AI",
       logo_path: "dl.png",
       certificate_link:
