@@ -178,21 +178,21 @@ const certifications = {
       color_code: "#FFFFFF",
     },
     {
-      title: "Machine Learning ",
-      subtitle: "Stanford University & DeepLearning.AI ",
-      logo_path: "dl.png",
-      certificate_link:
-        "https://coursera.org/share/6a9c4f66aa9e18ea398ec20e7b432faf",
-      alt_name: "Stanford University",
-      color_code: "#FFFFFF",
-    },
-    {
       title: "CodSoft internship program",
       subtitle: "- CodSoft",
       logo_path: "codsoft.png",
       certificate_link:
         "https://drive.google.com/file/d/1lJhq0EH3KAIDt7FvXhPAH85HSp4T7kFO/view",
       alt_name: "GCP",
+      color_code: "#FFFFFF",
+    },
+    {
+      title: "Machine Learning ",
+      subtitle: "Stanford University & DeepLearning.AI ",
+      logo_path: "dl.png",
+      certificate_link:
+        "https://coursera.org/share/6a9c4f66aa9e18ea398ec20e7b432faf",
+      alt_name: "Stanford University",
       color_code: "#FFFFFF",
     },
     {
