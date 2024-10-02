@@ -169,6 +169,15 @@ const certifications = {
       color_code: "#FFFFFF",
     },
     {
+      title: "Deep Learning",
+      subtitle: "Deep Learning.AI",
+      logo_path: "dl.png",
+      certificate_link:
+        "https://coursera.org/share/f0bb8d6d7015732440aa3655dd93c4bf",
+      alt_name: "deeplearning.ai",
+      color_code: "#FFFFFF",
+    },
+    {
       title: "Machine Learning ",
       subtitle: "Stanford University & DeepLearning.AI ",
       logo_path: "dl.png",
@@ -184,24 +193,6 @@ const certifications = {
       certificate_link:
         "https://drive.google.com/file/d/1lJhq0EH3KAIDt7FvXhPAH85HSp4T7kFO/view",
       alt_name: "GCP",
-      color_code: "#FFFFFF",
-    },
-    {
-      title: "Neural Networks and Deep Learning",
-      subtitle: "Deep Learning.AI",
-      logo_path: "dl.png",
-      certificate_link:
-        "https://coursera.org/share/87b854f14a71c47d7735ce989e4a7f77",
-      alt_name: "deeplearning.ai",
-      color_code: "#FFFFFF",
-    },
-    {
-      title: "Improving Deep Neural Networks: Hyperparameter Tuning, Regularization and Optimization",
-      subtitle: "- Deep Learning.AI",
-      logo_path: "dl.png",
-      certificate_link:
-        "https://coursera.org/share/7a73eeb8dd96758f078477152c208f2c",
-      alt_name: "Google",
       color_code: "#FFFFFF",
     },
     {
