@@ -147,7 +147,7 @@ const degrees = {
       subtitle: "Uttar Pradesh Madhyamik Shiksha Parishad",
       logo_path: "iu_logo.png",
       alt_name: "Indiana University Bloomington",
-      duration: "2006 - 2021",
+      duration: "2019 - 2021",
       descriptions: [
         "Class XII: 75%, with Physics, Chemistry and Mathematics.",
         "Class X: 82%"
