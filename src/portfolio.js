@@ -236,7 +236,7 @@ const certifications = {
       subtitle: "- Coders Cave",
       logo_path: "coderscave.png",
       certificate_link:
-        " ",
+        "https://drive.google.com/drive/folders/1USwdCNJCOWGaBFCQqyt8wL3_fnKPGQWJ",
       alt_name: "GCP",
       color_code: "#FFFFFF",
     },
