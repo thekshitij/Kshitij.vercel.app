@@ -27,5 +27,19 @@ export const blackTheme = {
   splashBg: "#14213d",
 };
 
+export const warmTheme = {
+  body: "#FFF7E1",           // light cream background
+  text: "#3B2F2F",           // dark brown for text
+  expTxtColor: "#4A3737",    // darker brown for experience text
+  highlight: "#FFAE42",      // warm orange highlight
+  dark: "#2E1A1A",           // deep maroon for dark areas
+  secondaryText: "#8B6452",  // soft brown secondary text
+  imageHighlight: "#D96B27", // pumpkin orange for image highlights
+  compImgHighlight: "#F4E0C3", // light beige for component image highlights
+  jacketColor: "#422B2B",    // rich dark brown for jacket
+  headerColor: "#D96B2777",  // semi-transparent pumpkin orange for header
+  splashBg: "#3B2F2F",       // dark brown splash background
+};
 
-export const chosenTheme = blueTheme;
+
+export const chosenTheme = warmTheme;
