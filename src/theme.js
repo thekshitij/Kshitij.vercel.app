@@ -40,6 +40,18 @@ export const warmTheme = {
   headerColor: "#D96B2777",  // semi-transparent pumpkin orange for header
   splashBg: "#3B2F2F",       // dark brown splash background
 };
+export const greenTheme = {
+  body: "#E8F5E9",
+  text: "#1B5E20",
+  expTxtColor: "#004D40",
+  highlight: "#A5D6A7",
+  dark: "#1B5E20",
+  secondaryText: "#388E3C",
+  imageHighlight: "#66BB6A",
+  compImgHighlight: "#C8E6C9",
+  jacketColor: "#004D40",
+  headerColor: "#388E3C77",
+  splashBg: "#1B5E20",
+};
 
-
-export const chosenTheme = warmTheme;
+export const chosenTheme = greenTheme;
