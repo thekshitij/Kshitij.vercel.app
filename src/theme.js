@@ -53,5 +53,18 @@ export const greenTheme = {
   headerColor: "#388E3C77",
   splashBg: "#1B5E20",
 };
+export const purpleTheme = {
+  body: "#F3E5F5",
+  text: "#4A148C",
+  expTxtColor: "#6A1B9A",
+  highlight: "#CE93D8",
+  dark: "#311B92",
+  secondaryText: "#7B1FA2",
+  imageHighlight: "#9C27B0",
+  compImgHighlight: "#E1BEE7",
+  jacketColor: "#4A148C",
+  headerColor: "#7B1FA277",
+  splashBg: "#4A148C",
+};
 
-export const chosenTheme = greenTheme;
+export const chosenTheme = purpleTheme;
