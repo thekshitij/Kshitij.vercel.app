@@ -80,4 +80,4 @@ export const oceanTheme = {
   splashBg: "#01579B",
 };
 
-export const chosenTheme = oceanTheme;
+export const chosenTheme = blueTheme;
