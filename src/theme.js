@@ -66,5 +66,18 @@ export const purpleTheme = {
   headerColor: "#7B1FA277",
   splashBg: "#4A148C",
 };
+export const oceanTheme = {
+  body: "#E0F7FA",
+  text: "#01579B",
+  expTxtColor: "#0277BD",
+  highlight: "#4FC3F7",
+  dark: "#003C8F",
+  secondaryText: "#0288D1",
+  imageHighlight: "#039BE5",
+  compImgHighlight: "#B3E5FC",
+  jacketColor: "#004D6F",
+  headerColor: "#0288D177",
+  splashBg: "#01579B",
+};
 
-export const chosenTheme = purpleTheme;
+export const chosenTheme = oceanTheme;
